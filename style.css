@@ -35,4 +35,5 @@ ul {
 
 a {
   color: blue;
+  max-resolution: 0 auto;
 }
